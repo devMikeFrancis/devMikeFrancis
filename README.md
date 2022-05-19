@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/devmikefrancis" target="blank"><img src="https://img.shields.io/twitter/follow/devmikefrancis?logo=twitter&style=for-the-badge" alt="devmikefrancis" /></a> </p>
 
-- 🌱 I’m currently continuing to learn **JavaScript, C#, HTML5, Node.js,**
+- 🌱 I’m continuing to learn **JavaScript, C#, HTML5, Node.js,**
 
 - 📫 How to reach me **mike@codesourceconsulting.com**
 
