@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">A software engineer, Crestron guru, father, husband, and drive a Jeep.</h3>
+<h3 align="center">A software engineer, Crestron guru, father, husband, and drives a Jeep.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
